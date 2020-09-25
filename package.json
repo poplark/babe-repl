@@ -1,5 +1,5 @@
 {
-  "name": "babel-sandboxes",
+  "name": "babel-repl",
   "version": "1.0.0",
   "description": "",
   "license": "MIT",
@@ -34,5 +34,6 @@
       "last 1 chrome version",
       "last 1 firefox version"
     ]
-  }
+  },
+  "keywords": []
 }
